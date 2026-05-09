@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RCC>
+    <qresource prefix="/">
+        <!-- Instrument Serif (Latin / French serif) -->
+        <file>fonts/InstrumentSerif-Regular.ttf</file>
+        <file>fonts/InstrumentSerif-Italic.ttf</file>
+
+        <!-- Manrope (Latin / French UI) -->
+        <file>fonts/Manrope-ExtraLight.ttf</file>
+        <file>fonts/Manrope-Light.ttf</file>
+        <file>fonts/Manrope-Regular.ttf</file>
+        <file>fonts/Manrope-Medium.ttf</file>
+        <file>fonts/Manrope-SemiBold.ttf</file>
+        <file>fonts/Manrope-Bold.ttf</file>
+        <file>fonts/Manrope-ExtraBold.ttf</file>
+
+        <!-- Tajawal (Arabic UI) -->
+        <file>fonts/Tajawal-ExtraLight.ttf</file>
+        <file>fonts/Tajawal-Light.ttf</file>
+        <file>fonts/Tajawal-Regular.ttf</file>
+        <file>fonts/Tajawal-Medium.ttf</file>
+        <file>fonts/Tajawal-Bold.ttf</file>
+        <file>fonts/Tajawal-ExtraBold.ttf</file>
+        <file>fonts/Tajawal-Black.ttf</file>
+
+        <!-- Noto Naskh Arabic (accent elements — assigned per request) -->
+        <file>fonts/NotoNaskhArabic-Regular.ttf</file>
+        <file>fonts/NotoNaskhArabic-Medium.ttf</file>
+        <file>fonts/NotoNaskhArabic-SemiBold.ttf</file>
+        <file>fonts/NotoNaskhArabic-Bold.ttf</file>
+    </qresource>
+</RCC>

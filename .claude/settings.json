@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(Get-ChildItem -Path \"c:\\\\Users\\\\Azaie\\\\Documents\\\\ftour_jomaa\" -Recurse | ForEach-Object { if \\($_.PSIsContainer\\) { \"DIR:  \" + $_.FullName } else { \"FILE: \" + $_.FullName } } | Sort-Object)",
+      "Read(//c/Users/Azaie/.claude/projects/c--Users-Azaie-Documents-ftour-jomaa/memory/**)"
+    ]
+  }
+}
